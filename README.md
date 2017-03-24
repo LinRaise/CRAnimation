@@ -1,3 +1,7 @@
+
+# 本项目已迁移至新的gitHub:<https://github.com/CRAnimation/CRAnimation>，
+# 请小伙伴们移步新地址，本地址项目不再维护更新～
+
 # CRAnimation计 划
 
 [![Join the chat at https://gitter.im/CRAnimation/Lobby](https://badges.gitter.im/CRAnimation/Lobby.svg)](https://gitter.im/CRAnimation/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
