@@ -4,6 +4,9 @@
 
 # CRAnimation计 划
 
+<div class="github-widget" data-username="smuyyh"></div>
+<script type="text/javascript" src="https://rawgit.com/smuyyh/GitHubWidgets/master/js/github_user_widget_en.js"></script>
+
 [![Join the chat at https://gitter.im/CRAnimation/Lobby](https://badges.gitter.im/CRAnimation/Lobby.svg)](https://gitter.im/CRAnimation/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 <left>
